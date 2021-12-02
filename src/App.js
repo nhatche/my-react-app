@@ -10,6 +10,7 @@ class App extends Component {
               <Header1/>
               hello nhat
               hello cin
+              hello nhu
           </div>
       );
   }
