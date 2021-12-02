@@ -9,6 +9,7 @@ class App extends Component {
           <div>
               <Header1/>
               hello nhat
+              hello cin
           </div>
       );
   }
